@@ -50,8 +50,10 @@ sh test_SEIDNet.sh
 
 <details><summary>Single image rain removal</summary>
 <p>
+We compare SEIDNet with state-of-the-art methods on the test sets of Rain100H, Rain100L, Rain1400, SPA and Rain13K. The performances are reported in terms of PSNR and SSIM.
 <img align="center" src="./results/derain.png" swidth="750">
 
+We compare SEIDNet with state-of-the-art methods on the test sets of Rain13K. The performances are reported in terms of PSNR and SSIM.
 <img align="center" src="./results/rain13k.png" swidth="750">
 </p>
 </details>
@@ -59,20 +61,21 @@ sh test_SEIDNet.sh
 
 <details><summary>Single image snow removal</summary>
 <p>
+We compare SEIDNet with state-of-the-art methods on the test sets of Snow100K. The performances are reported in terms of PSNR and SSIM.
 <img align="center" src="./results/desnow.png" swidth="750">
 </p>
 </details>
 
 <details><summary>Single image haze removal</summary>
 <p>
-Single image haze removal
+We compare SEIDNet with other methods on ITS&OTS. The results are listed in terms of PSNR and SSIM.
 <img align="center" src="./results/dehaze.png" swidth="750">
 </p>
 </details>
 
 <details><summary>Single image shadow removal</summary>
 <p>
-Single image shadow removal
+We compare SEIDNet with other methods on the test set of ISTD. The per- formances are reported in term of RMSE.
 <img align="center" src="./results/deshadow.png" swidth="750">
 </p>
 </details>
