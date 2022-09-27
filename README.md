@@ -1,7 +1,7 @@
 # SEIDNet
 we propose SEIDNet equipped with the generative Status Estimation and Information Decoupling for rain removal.
 
-<img align="center" src="./Architecture/train.png" swidth="750">
+<img align="center" src="./Architecture/train.png" swidth="500">
 
 ## Requirements
 
