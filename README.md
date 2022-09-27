@@ -5,8 +5,9 @@ we propose SEIDNet equipped with the generative Status Estimation and Informatio
 
 ## Requirements
 
-- python 3.6
-- pytorch 1.6.0
+- python 3.7.11
+- pytorch 1.8.0
+- CUDA Version 11.4
 - opencv-python 4.4.0.44
 - scikit-image 0.17.2
 
