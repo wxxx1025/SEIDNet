@@ -37,17 +37,45 @@ Coming soon
 ## Train
 
 ```
-sh train.sh
+sh train_SEIDNet.sh
 ```
 
 ## Test
 
 ```
-sh test.sh
+sh test_SEIDNet.sh
 ```
 
 ## Results
 
+<details><summary>Single image rain removal</summary>
+<p>
+<img align="center" src="./results/derain.png" swidth="750">
+
+<img align="center" src="./results/rain13k.png" swidth="750">
+</p>
+</details>
+
+
+<details><summary>Single image snow removal</summary>
+<p>
+<img align="center" src="./results/desnow.png" swidth="750">
+</p>
+</details>
+
+<details><summary>Single image haze removal</summary>
+<p>
+Single image haze removal
+<img align="center" src="./results/dehaze.png" swidth="750">
+</p>
+</details>
+
+<details><summary>Single image shadow removal</summary>
+<p>
+Single image shadow removal
+<img align="center" src="./results/deshadow.png" swidth="750">
+</p>
+</details>
 
 
 ## Bibtex
